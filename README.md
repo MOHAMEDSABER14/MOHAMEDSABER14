@@ -5,7 +5,7 @@
   I'm a Management Information Systems student and software developer passionate about modern UI design, dark-mode aesthetics, and process automation. I specialize in building scalable CRM solutions and streamlining enterprise workflows.
 </p>
 
-- 💼 **Current Roles:** Salesforce System Administrator & Developer | Back Office Operations Specialist.
+- 💼 **Current Roles:** Salesforce System Administrator & Developer | CRM Specialist.
 - 🤝 **Community Leadership:** Tech Operations Team Lead | Community Ambassador guiding technology learners.
 - 🎓 **Background:** MIS Undergraduate | Software Testing & Automation Alumni | HCIA-AI Certified.
 - 🎨 **Design Philosophy:** Focused on clean, intuitive user interfaces utilizing custom color schemes and glassmorphism.
