@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Mohamed Saber 👋</h1>
-<h3 align="center">Salesforce System Administrator & Developer | Operation Team Lead @ GDG</h3>
+<h3 align="center">Salesforce System Administrator & Developer | Operations & Community Leader</h3>
 
 <p align="center">
-  I'm an MIS student at Helwan University with a passion for software development, modern UI design, and process automation. I specialize in building custom Salesforce solutions and streamlining operational workflows.
+  I'm a Management Information Systems student and software developer passionate about modern UI design, dark-mode aesthetics, and process automation. I specialize in building scalable CRM solutions and streamlining enterprise workflows.
 </p>
 
-- 💼 **Currently working:** Salesforce System Administrator & Developer @ Kit | Back Office Specialist @ MBC Shahid.
-- 🤝 **Community Leadership:** Operation Team Lead @ GDG on Campus CIC | Community Ambassador @ Sprints.
-- 🎓 **Education & Certifications:** MIS at Helwan University | ITI Software Tester Alumni | HCIA-AI Certified.
-- 🎨 **Design Philosophy:** I love designing clean, modern dark/light mode UIs with glassmorphism effects.
+- 💼 **Current Roles:** Salesforce System Administrator & Developer | Back Office Operations Specialist.
+- 🤝 **Community Leadership:** Tech Operations Team Lead | Community Ambassador guiding technology learners.
+- 🎓 **Background:** MIS Undergraduate | Software Testing & Automation Alumni | HCIA-AI Certified.
+- 🎨 **Design Philosophy:** Focused on clean, intuitive user interfaces utilizing custom color schemes and glassmorphism.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
@@ -24,11 +24,11 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </p>
 
-### 🚀 Featured Projects & Achievements
-- **MBC Shahid Support Platform:** Developed custom Lightning Web Components (LWC) for case timers, automated case handling flows, and integrated Messaging for In-App & Web.
-- **Experience Cloud Deployment:** Built and published custom help sites ("Help Kit" & Default Help Center) on Salesforce developer domains.
-- **Operational Reporting Automation:** Streamlined multi-channel reporting operations using Google Apps Script with custom menu triggers and automated data mapping.
-- **Test Automation:** Built robust automation testing frameworks utilizing Selenium and TestNG.
+### 🚀 Featured Projects & Architectural Impact
+- **Enterprise Agent Support Platform:** Developed custom Lightning Web Components (LWC) for case timers, built automated case handling flows, and integrated Messaging for In-App & Web to support large-scale customer service operations.
+- **Experience Cloud Portals:** Architected and deployed custom self-service help sites and knowledge bases on Salesforce developer domains.
+- **Operational Reporting Automation:** Engineered customized Google Apps Script solutions with menu triggers and dynamic data mapping to automate complex, multi-channel reporting workflows.
+- **Quality Assurance Frameworks:** Designed and implemented reliable automation testing scripts utilizing Selenium and TestNG for enterprise software environments.
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -39,5 +39,5 @@
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-saber-elsayed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mohameedsaber1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
